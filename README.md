@@ -21,4 +21,4 @@ Also, forgot to mention, you can take the source code to make your own of it, an
 
 ## NOTICE!
 
-**_If you are taking the source code for this bot, do note that you have to replace the "your_own_code" with your DISCORD BOT CILENT ID, or else your bot may not work._**
+**_If you are taking the source code for this bot, do note that you have to replace the "your_own_code" with your DISCORD BOT CILENT ID, or else your bot may not work._** **_This is ALSO coded with Python, so other coding languages may not work._**
