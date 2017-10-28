@@ -327,6 +327,12 @@ async def funny(ctx):
     await client.say("""The funny part is how many lines of code this bot has.
 
 WAIT NOT REALLY""")
+    
+#command48
+@client.command(pass_context=True)
+async def aboutswoos(ctx):
+    await client.say("""Swoos are a nice thing. They are owned by swoo32, AKA Incrypte.
+Pretty nice creatures, right? Well, THEY BITE YOU. THEY LITERALLY DO. Yes, just keep the pets to Incrypte.""")
 
 
 client.run("your_own_code")
