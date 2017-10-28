@@ -320,6 +320,13 @@ async def hatcordroblox(ctx):
 @client.command(pass_context=True)
 async def sourcecode(ctx):
     await client.say("""The source code is here. https://github.com/Hatman42/HatBot""")
+    
+#command47
+@client.command(pass_context=True)
+async def funny(ctx):
+    await client.say("""The funny part is how many lines of code this bot has.
+
+WAIT NOT REALLY""")
 
 
 client.run("your_own_code")
