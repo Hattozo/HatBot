@@ -319,7 +319,9 @@ async def hatcordroblox(ctx):
 #command46
 @client.command(pass_context=True)
 async def sourcecode(ctx):
-    await client.say("""The source code is here. https://github.com/Hatman42/HatBot""")
+    await client.say("""The source code is here. https://github.com/Hatman42/HatBot
+    
+**Like the project? Give it a star on GitHub!**""")
     
 #command47
 @client.command(pass_context=True)
