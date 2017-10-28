@@ -129,7 +129,7 @@ async def pingstaff(ctx):
 #command13
 @client.command(pass_context=True)
 async def botbreaker3000(ctx):
-    await client.say("""Dont try to break me motherfucker""")
+    await client.say("""Dont try to break me.""")
 
 #command14
 @client.command(pass_context=True)
@@ -157,7 +157,7 @@ async def ping(ctx):
 #command18
 @client.command(pass_context=True)
 async def spam(ctx):
-    await client.say("""Hey! Dont do that motherfucker! Thats in the Hatcord Rules! Spam in #spam instead.""")
+    await client.say("""Hey! Dont do that! Thats in the Hatcord Rules! Spam in #spam instead.""")
 
 #command19
 @client.command(pass_context=True)
@@ -166,8 +166,8 @@ async def python(ctx):
 
 #command20
 @client.command(pass_context=True)
-async def porn(ctx):
-    await client.say("""I think im young to see porn. Join a fucking 18+ server.""")
+async def prettykindafunny(ctx):
+    await client.say("""funny as :b:eck""")
 
 #command21
 @client.command(pass_context=True)
@@ -248,8 +248,8 @@ async def robloxremix(ctx):
 
 #command33
 @client.command(pass_context=True)
-async def fuckyou(ctx):
-    await client.say("""Fuck you too. :middle_finger: """)
+async def reallyweirdcrap(ctx):
+    await client.say("""idk what to say""")
 
 #command34
 @client.command(pass_context=True)
@@ -259,7 +259,7 @@ async def howmanycommands(ctx):
 #command35
 @client.command(pass_context=True)
 async def hatbot(ctx):
-    await client.say("""Thats me. Way better than dyno. Oh wait, im a useless bot. Not some bot that helps you. Fuck.""")
+    await client.say("""Thats me. Way better than dyno. Oh wait, im a useless bot. Not some bot that helps you. Dang.""")
 
 #command36
 @client.command(pass_context=True)
