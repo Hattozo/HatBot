@@ -347,6 +347,21 @@ async def rickjoke(ctx):
     await client.say("""Heres a joke.
 
 Why did the Rick and Morty fanbase became terrible? Because of a little singer called musical.ly.""")
+    
+#command52
+@client.command(pass_context=True)
+async def green(ctx):
+    await client.say("""Green is not a creative color!""")
+    
+#command53
+@client.command(pass_context=True)
+async def thehatisahat(ctx):
+    await client.say("""Of course he is. A thing is a thing.""")
+    
+#command54
+@client.command(pass_context=True)
+async def otherdumcommand(ctx):
+    await client.say("""Cant wait until Hat stops making me online on discord :)""")
 
 
 client.run("your_own_code")
