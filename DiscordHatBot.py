@@ -372,6 +372,11 @@ async def otherdumcommand(ctx):
 @client.command(pass_context=True)
 async def funfact1(ctx):
     await client.say("""Did you know that the h!help command is flooded with garbage commands that fill up the entire text channel?""")
+    
+#command56
+@client.command(pass_context=True)
+async def prettyoldvideo(ctx):
+    await client.say("""https://www.youtube.com/watch?v=jNQXAC9IVRw""")
 
 
 client.run("MzU3MjQyNDI3ODcxOTg1NjY0.DJsd7A.1DNZKQFZhAOzXcJmwUCaW_afKaY")
