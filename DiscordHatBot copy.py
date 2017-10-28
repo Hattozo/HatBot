@@ -315,6 +315,11 @@ https://media.giphy.com/media/MGaacoiAlAti0/giphy.gif
 @client.command(pass_context=True)
 async def hatcordroblox(ctx):
     await client.say("""https://www.roblox.com/users/413383542/profile""")
+    
+#command46
+@client.command(pass_context=True)
+async def sourcecode(ctx):
+    await client.say("""The source code is here. https://github.com/Hatman42/HatBot""")
 
 
 client.run("your_own_code")
