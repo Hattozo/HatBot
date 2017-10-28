@@ -335,6 +335,18 @@ WAIT NOT REALLY""")
 async def aboutswoos(ctx):
     await client.say("""Swoos are a nice thing. They are owned by swoo32, AKA Incrypte.
 Pretty nice creatures, right? Well, THEY BITE YOU. THEY LITERALLY DO. Yes, just keep the pets to Incrypte.""")
+    
+#command50
+@client.command(pass_context=True)
+async def fifthy(ctx):
+    await client.say("""This is the 50th command for this bot. Coincidence?""")
+
+#command51
+@client.command(pass_context=True)
+async def rickjoke(ctx):
+    await client.say("""Heres a joke.
+
+Why did the Rick and Morty fanbase became terrible? Because of a little singer called musical.ly.""")
 
 
 client.run("your_own_code")
