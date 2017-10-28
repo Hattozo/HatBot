@@ -367,6 +367,11 @@ async def thehatisahat(ctx):
 @client.command(pass_context=True)
 async def otherdumcommand(ctx):
     await client.say("""Cant wait until Hat stops making me online on discord :)""")
+    
+#command55
+@client.command(pass_context=True)
+async def funfact1(ctx):
+    await client.say("""Did you know that the h!help command is flooded with garbage commands that fill up the entire text channel?""")
 
 
 client.run("your_own_code")
