@@ -19,6 +19,6 @@ Yes, this bot is not that good because it only responds to commands, and not rea
 
 Also, forgot to mention, you can take the source code to make your own of it, and replace the client ID with your own.
 
-# NOTICE!
+## NOTICE!
 
 **_If you are taking the source code for this bot, do note that you have to replace the "your_own_code" with your DISCORD BOT CILENT ID, or else your bot may not work._**
