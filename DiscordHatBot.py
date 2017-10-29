@@ -9,7 +9,7 @@ client = commands.Bot(command_prefix=bot_prefix)
   
 @client.event
 async def on_ready():
-    print("Bot Online!")
+    print("The bot is running.")
     print("Name: {}".format(client.user.name))
     print("ID: {}".format(client.user.id))
 
