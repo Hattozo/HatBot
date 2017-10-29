@@ -377,6 +377,11 @@ async def funfact1(ctx):
 @client.command(pass_context=True)
 async def prettyoldvideo(ctx):
     await client.say("""https://www.youtube.com/watch?v=jNQXAC9IVRw""")
+    
+#command57
+@client.command(pass_context=True)
+async def nonono(ctx):
+    await client.say("""NO NO NO!""")
 
 
 client.run("MzU3MjQyNDI3ODcxOTg1NjY0.DJsd7A.1DNZKQFZhAOzXcJmwUCaW_afKaY")
