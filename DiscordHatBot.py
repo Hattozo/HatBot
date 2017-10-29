@@ -140,7 +140,7 @@ Seriously?""")
 #command15
 @client.command(pass_context=True)
 async def introduce(ctx):
-    await client.say("""Hello! I am Hat Bot! I am in this server just to entertain you.
+    await client.say("""Hello! I am HatBot! I am in this server just to entertain you.
 
 Now I dont know what to say anymore.""")
 
