@@ -384,4 +384,4 @@ async def nonono(ctx):
     await client.say("""NO NO NO!""")
 
 
-client.run("MzU3MjQyNDI3ODcxOTg1NjY0.DJsd7A.1DNZKQFZhAOzXcJmwUCaW_afKaY")
+client.run("insert_token_here")
