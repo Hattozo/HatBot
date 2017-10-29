@@ -382,6 +382,11 @@ async def prettyoldvideo(ctx):
 @client.command(pass_context=True)
 async def nonono(ctx):
     await client.say("""NO NO NO!""")
+    
+#command58
+@client.command(pass_context=True)
+async def sad(ctx):
+    await client.say("""I am a saddy saddy man""")
 
 
 client.run("insert_token_here")
