@@ -1,9 +1,8 @@
 # Whats New
 
-- nonono command
-- sad command
+- Generated new token so it wont become compromised cause you could see the old token in commits
 
 # Last Update
 
-- funfact1 command
-- prettyoldvideo command
+- nonono command
+- sad command
