@@ -1,6 +1,6 @@
 # HatBot Source Code
 
-HatBot is a Discord Bot that is for the Discord server **HatCord**. It is kinda a useless bot which only does commands that responds to you.
+HatBot is a Discord Bot that is for the Discord server **HatCord**. It is kinda a useless bot, but can kick members that have a role lower than HatBot. But it can respond to commands.
 
 ## Commands
 There are many commands like:
@@ -10,6 +10,7 @@ h!hi
 h!abouthatbot
 h!introduce
 h!help
+h!kick [DISCORD USERNAME]
 ```
 and much more. This bot has features, but very few features such as
 - Responds to you're commands
