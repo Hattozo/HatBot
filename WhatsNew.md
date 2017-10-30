@@ -1,8 +1,7 @@
 # Whats New
 
-- Generated new token so it wont become compromised cause you could see the old token in commits
+- Added thelogisinthebin command
 
 # Last Update
 
-- nonono command
-- sad command
+- Generated new token so it wont become compromised cause you could see the old token in commits
