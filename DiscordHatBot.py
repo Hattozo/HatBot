@@ -387,6 +387,11 @@ async def nonono(ctx):
 @client.command(pass_context=True)
 async def sad(ctx):
     await client.say("""I am a saddy saddy man""")
+    
+#command59
+@client.command(pass_context=True)
+async def thelogisinthebin(ctx):
+    await client.say("""https://www.youtube.com/watch?v=ZCEwBx5FKlA""")
 
 
 client.run("insert_token_here")
