@@ -392,6 +392,11 @@ async def sad(ctx):
 @client.command(pass_context=True)
 async def thelogisinthebin(ctx):
     await client.say("""https://www.youtube.com/watch?v=ZCEwBx5FKlA""")
+    
+#command60
+@client.command(pass_context=True)
+async def smile(ctx):
+    await client.say(""":smiley: """)
 
 
 client.run("insert_token_here")
