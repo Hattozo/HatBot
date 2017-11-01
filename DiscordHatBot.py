@@ -397,6 +397,11 @@ async def thelogisinthebin(ctx):
 @client.command(pass_context=True)
 async def smile(ctx):
     await client.say(""":smiley: """)
+    
+#command61
+@client.command(pass_context=True)
+async def wth(ctx):
+    await client.say("""https://cdn.discordapp.com/attachments/339105189330157577/375373311950979082/wth.png""")
 
 
 client.run("insert_token_here")
