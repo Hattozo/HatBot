@@ -402,6 +402,13 @@ async def smile(ctx):
 @client.command(pass_context=True)
 async def wth(ctx):
     await client.say("""https://cdn.discordapp.com/attachments/339105189330157577/375373311950979082/wth.png""")
+    
+#command62
+@client.command(pass_context=True)
+async def awaitcilent(ctx):
+    await client.say("""await cilent.say (""ur roblox avatar is gey"")
+
+oh yeah I also didnt add three quotation marks since python would think its code instead of a string""")
 
 
 client.run("insert_token_here")
