@@ -333,8 +333,7 @@ WAIT NOT REALLY""")
 #command48
 @client.command(pass_context=True)
 async def aboutswoos(ctx):
-    await client.say("""Swoos are a nice thing. They are owned by swoo32, AKA Incrypte.
-Pretty nice creatures, right? Well, THEY BITE YOU. THEY LITERALLY DO. Yes, just keep the pets to Incrypte.""")
+    await client.say("""A swoo is a friendly duck-like creature, they're friendly as long as you don't disturb or anger them. They're very intelligent, as they know human english, they can learn to do things like a human being. https://cdn.discordapp.com/attachments/283348047486910465/374348039696941066/swoo.png""")
 
 #command49
 @client.command(pass_context=True)
