@@ -1,7 +1,7 @@
 # Whats New
 
-- Added wth command
+- Added awaitcilent command
 
 # Last Update
 
-- Added thelogisinthebin command
+- Added wth command
