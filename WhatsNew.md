@@ -1,7 +1,7 @@
 # Whats New
 
-- Added awaitcilent command
+- Added navyseals command
 
 # Last Update
 
-- Added wth command
+- Added awaitcilent command
