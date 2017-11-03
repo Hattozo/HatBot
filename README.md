@@ -12,9 +12,10 @@ h!introduce
 h!help
 h!kick [DISCORD USERNAME]
 ```
-and much more. This bot has features, but very few features such as
+and much more. This bot has features, but has a few features such as
 - Responds to you're commands
 - Fun commands
+- Can kick people that have roles lower than the bot
 
 Yes, this bot is not that good because it only responds to commands, and not really powerful things.
 
