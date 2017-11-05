@@ -419,6 +419,11 @@ Going outside!""")
 @client.command(pass_context=True)
 async def funfactthing(ctx):
     await client.say("""Heres a different crap fun fact. What is the biggest thing in the world?""")
+    
+#command66
+@client.command(pass_context=True)
+async def fuck(ctx):
+    await client.say("""https://imgur.com/gallery/Ol05I""")
 
 
 client.run("insert_token_here")
