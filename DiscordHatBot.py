@@ -423,7 +423,7 @@ Going outside!""")
     
 #command65
 @client.command(pass_context=True)
-async def funfacts(ctx):
+async def funfactthing(ctx):
     await client.say("""Heres a different crap fun fact. What is the biggest thing in the world?""")
 
 
