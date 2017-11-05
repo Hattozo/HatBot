@@ -118,7 +118,7 @@ The point of the bot is to mess around it. Thats all.""")
 #command12
 @client.command(pass_context=True)
 async def pingstaff(ctx):
-    await client.say("""Ping the staff yourself doofus.""")
+    await client.say("""no""")
 
 #command13
 @client.command(pass_context=True)
