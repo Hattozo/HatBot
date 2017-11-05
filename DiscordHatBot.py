@@ -41,7 +41,7 @@ async def hat(ctx):
 #command4
 @client.command(pass_context=True)
 async def abouthat(ctx):
-    await client.say("""**HatmanTheHat** is the creator of this Discord.""")
+    await client.say("""**HatmanTheHat** is the creator of this bot.""")
     
 #command5
 @client.command(pass_context=True)       
@@ -98,14 +98,8 @@ async def listservers(ctx):
 @client.command(pass_context = True)
 async def info(ctx):
     await client.say("""**Useful Links:**
-Discord Invite so you can invite friends here: https://discord.gg/3AtsZjN
- 
-Roles:
-@OWNER - Hat himself, runs the server.
-@Staff  - Helps moderate the server.
-@Mod - Dunno, pretty much the same as Staff but a different role.
-@CO-OWNER - Hes PokeTerrarian!
- 
+Help? Go to HatCord's discord for help with this bot.: https://discord.gg/3AtsZjN
+
 Any issues please **PM** HatmanTheHat directly.
  
 Do you wanna see HatmanTheHats ROBLOX Profile? **Go here:** https://www.roblox.com/users/86121841/profile""")
@@ -157,7 +151,7 @@ async def ping(ctx):
 #command18
 @client.command(pass_context=True)
 async def spam(ctx):
-    await client.say("""Hey! Dont do that! Thats in the Hatcord Rules! Spam in #spam instead.""")
+    await client.say("""Hey! Dont do that! Thats stupid! Spam in a spam channel instead.""")
 
 #command19
 @client.command(pass_context=True)
