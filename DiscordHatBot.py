@@ -420,6 +420,11 @@ async def somethingfun(ctx):
     await client.say("""Whats fun?
 
 Going outside!""")
+    
+#command65
+@client.command(pass_context=True)
+async def funfacts(ctx):
+    await client.say("""Heres a different crap fun fact. What is the biggest thing in the world?""")
 
 
 client.run("insert_token_here")
