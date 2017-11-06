@@ -439,6 +439,11 @@ async def bitch(ctx):
 @client.command(pass_context=True)
 async def sixtynine(ctx):
     await client.say("""stop""")
+    
+#command70
+@client.command(pass_context=True)
+async def autorole(ctx):
+    await client.say("""I will send you a cod- whoops wrong bot""")
 
 
 client.run("insert_token_here")
