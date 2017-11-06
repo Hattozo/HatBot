@@ -424,6 +424,21 @@ async def funfactthing(ctx):
 @client.command(pass_context=True)
 async def fuck(ctx):
     await client.say("""https://imgur.com/gallery/Ol05I""")
+    
+#command67
+@client.command(pass_context=True)
+async def shit(ctx):
+    await client.say("""https://imgur.com/gallery/Ol05I""")
+
+#command68
+@client.command(pass_context=True)
+async def bitch(ctx):
+    await client.say("""https://imgur.com/gallery/Ol05I""")
+
+#command69
+@client.command(pass_context=True)
+async def sixtynine(ctx):
+    await client.say("""stop""")
 
 
 client.run("insert_token_here")
