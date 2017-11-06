@@ -5,12 +5,12 @@ HatBot is a Discord Bot that is for the Discord server **HatCord**. It is kinda 
 ## Commands
 There are many commands like:
 ```
-h!info
-h!hi
-h!abouthatbot
-h!introduce
-h!help
-h!kick [DISCORD USERNAME]
+=info
+=hi
+=abouthatbot
+=introduce
+=help
+=kick [DISCORD USERNAME]
 ```
 and much more. This bot has features, but has a few features such as
 - Responds to you're commands
