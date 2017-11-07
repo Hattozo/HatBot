@@ -1,10 +1,7 @@
 # Whats New
 
-- Added autorole command
+- Added toomanycommands command
 
 # Last Update
 
-- Changed prefix to =
-- Added s### command
-- Added b#### command
-- Added sixtynine command
+- Added autorole command
