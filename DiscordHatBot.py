@@ -444,6 +444,11 @@ async def sixtynine(ctx):
 @client.command(pass_context=True)
 async def autorole(ctx):
     await client.say("""I will send you a cod- whoops wrong bot""")
+    
+#command71
+@client.command(pass_context=True)
+async def toomanycommands(ctx):
+    await client.say("""You can say that this bot has a lot of commands to pick from. No really, you can pick a lot of commands.""")
 
 
 client.run("insert_token_here")
