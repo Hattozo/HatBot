@@ -454,6 +454,11 @@ async def toomanythings(ctx):
 @client.command(pass_context=True)
 async def funfact3(ctx):
     await client.say("""Did you know that Hat works on this bot everyday? Thats a lot of god damn hard work.""")
+    
+#command73
+@client.command(pass_context=True)
+async def funfact2(ctx):
+    await client.say("""Did you know that this command came after Fun Fact 3? Hat is stupid at counting.""")
 
 
 client.run("insert_token_here")
