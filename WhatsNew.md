@@ -1,6 +1,6 @@
 # Whats New
 
-- Added toomanycommands command
+- Added toomanythings command
 
 # Last Update
 
