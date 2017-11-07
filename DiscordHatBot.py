@@ -459,6 +459,11 @@ async def funfact3(ctx):
 @client.command(pass_context=True)
 async def funfact2(ctx):
     await client.say("""Did you know that this command came after Fun Fact 3? Hat is stupid at counting.""")
+    
+#command74
+@client.command(pass_context=True)
+async def yep(ctx):
+    await client.say("""yay""")
 
 
 client.run("insert_token_here")
