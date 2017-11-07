@@ -176,15 +176,15 @@ async def discordtoken(ctx):
 #command23
 @client.command(pass_context=True)
 async def howwemakehatbot(ctx):
-    await client.say("""**How We Make Hat Bot**
+    await client.say("""**How We Make HatBot**
 
-Hat Bot is a bot made by **HatmanTheHat**. It is a public bot. It is in the HatCord Discord.
+Hat Bot is a bot made by **HatmanTheHat**. It is a public bot. It is a simple bot.
 
 It is programmed with Python, discord.py.
 
 **HatmanTheHat** programs the bot, he codes it. You can say commands to Hat Bot.
 
-Yes, you cannot rename discord bots, so **Hat Bots** username is **Hat Robot instead of **Hat Bot**.
+Yes, you cannot rename discord bots, so **HatBot's** username is **Hat Robot** instead of **HatBot**.
 
 There is not much to say about this bot, this is the end of this. Ok bye""")
 
