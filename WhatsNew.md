@@ -1,9 +1,9 @@
 # Whats New
 
-- Added toomanythings command
-- Added funfact3 command
-- Added funfact2 command
+- Added yep command
 
 # Last Update
 
-- Added autorole command
+- Added toomanythings command
+- Added funfact3 command
+- Added funfact2 command
