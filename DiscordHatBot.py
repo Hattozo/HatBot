@@ -449,6 +449,11 @@ async def autorole(ctx):
 @client.command(pass_context=True)
 async def toomanythings(ctx):
     await client.say("""You can say that this bot has a lot of commands to pick from. No really, you can pick a lot of commands.""")
+    
+#command72
+@client.command(pass_context=True)
+async def funfact3(ctx):
+    await client.say("""Did you know that Hat works on this bot everyday? Thats a lot of god damn hard work.""")
 
 
 client.run("insert_token_here")
