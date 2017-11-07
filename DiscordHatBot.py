@@ -447,7 +447,7 @@ async def autorole(ctx):
     
 #command71
 @client.command(pass_context=True)
-async def toomanycommands(ctx):
+async def toomanythings(ctx):
     await client.say("""You can say that this bot has a lot of commands to pick from. No really, you can pick a lot of commands.""")
 
 
