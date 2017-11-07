@@ -178,7 +178,7 @@ async def discordtoken(ctx):
 async def howwemakehatbot(ctx):
     await client.say("""**How We Make Hat Bot**
 
-Hat Bot is a bot made by **HatmanTheHat**. It is not a public bot. It is in the HatCord Discord.
+Hat Bot is a bot made by **HatmanTheHat**. It is a public bot. It is in the HatCord Discord.
 
 It is programmed with Python, discord.py.
 
