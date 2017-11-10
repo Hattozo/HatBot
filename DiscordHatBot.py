@@ -464,6 +464,11 @@ async def funfact2(ctx):
 @client.command(pass_context=True)
 async def yep(ctx):
     await client.say("""yay""")
+    
+#command75
+@client.command(pass_context=True)
+async def cool(ctx):
+    await client.say("""this command is cool.""")
 
 
 client.run("insert_token_here")
