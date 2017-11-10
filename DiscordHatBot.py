@@ -469,6 +469,28 @@ async def yep(ctx):
 @client.command(pass_context=True)
 async def cool(ctx):
     await client.say("""this command is cool.""")
+    
+#command76
+@client.command(pass_context=True)
+async def mario(ctx):
+    await client.say("""⠀⠀⠀⠀⢀⣠⣤⡀
+⠀⠀⠀⢰⣿⣿⣿⣷⡆
+⠀⠀⠀⢸⣿⣿⣿⣟⡀⠀⠀⠀⠀⠀⢀⣀
+⠀⠀⠀⣼⣿⣿⣿⡟⣾⠄⠀⠀⢀⣴⣿⣿⣿⡄
+⠀⠀⠀⠉⣿⣿⡟⢀⠃⠀⠀⠀⢸⣿⣿⣿⣿⣿⡃
+⠀⠀⣠⣶⣿⣿⣿⣇⠀⠀⠀⢰⣿⣿⣿⣿⢿⠑⣴
+⢀⣼⣿⣿⣿⣿⣿⣿⡀⠀⠀⢀⣿⣿⣿⣿⠀⡠⠋
+⢸⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀⣾⣿⣿⣿⣿⣯
+⠈⣽⣿⣿⣿⣿⣿⣿⠿⣟⣿⣿⣿⣿⣿⣿⣿
+⠠⣻⣿⣿⣿⣿⣿⡿⠀⣿⣿⣿⣿⣿⣿⣿⣿
+⠀⠀⠛⢿⣿⣿⣿⣷⠀⣿⣿⣿⣿⣿⣟⠙⠉⠢⡀
+⠀⠀⠀⠸⣿⣿⣿⣿⡇⠘⢿⣿⣿⣿⣿⣷⣰⣼⡆
+⠀⠀⠀⣠⣿⣿⣿⣿⡃⠀⣼⣿⣿⣿⣿⣿⣿⣿⣷⣦
+⠀⢰⢿⢿⣿⣿⣿⣿⣿⣾⣿⣿⣿⡟⢿⣿⡿⣿⡿⠋
+⠀⠈⠢⢝⢻⣿⡗⠉⢹⣿⣿⣿⣿⠟
+⠀⠀⠈⠆⠩⠃⠀⠀⠈⠉
+nice for the princess to invite us over for a picnic gay luigi?
+i hope she brings lots-a spaghetti""")
 
 
 client.run("insert_token_here")
