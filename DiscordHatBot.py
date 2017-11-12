@@ -98,7 +98,7 @@ async def listservers(ctx):
 @client.command(pass_context = True)
 async def info(ctx):
     await client.say("""**Useful Links:**
-Help? Go to HatCord's discord for help with this bot.: https://discord.gg/3AtsZjN
+Help? Go to HatCord's discord for help with this bot. - https://discord.gg/3AtsZjN
 
 Any issues please **PM** HatmanTheHat directly.
  
