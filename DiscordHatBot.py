@@ -491,6 +491,11 @@ async def mario(ctx):
 ⠀⠀⠈⠆⠩⠃⠀⠀⠈⠉
 nice for the princess to invite us over for a picnic gay luigi?
 i hope she brings lots-a spaghetti""")
+    
+#command77
+@client.command(pass_context=True)
+async def seven(ctx):
+    await client.say("""windows 7""")
 
 
 client.run("insert_token_here")
