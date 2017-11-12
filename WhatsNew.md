@@ -1,8 +1,8 @@
 # Whats New
 
-- Added cool command
-- Added mario command
+- Added seven command
 
 # Last Update
 
-- Added yep command
+- Added cool command
+- Added mario command
