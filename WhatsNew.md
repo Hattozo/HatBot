@@ -1,8 +1,8 @@
 # Whats New
 
-- Added seven command
+- Added beter command (I added it a few days ago but forgot to put it on GitHub lol)
+- Added idiot command
 
 # Last Update
 
-- Added cool command
-- Added mario command
+- Added seven command
