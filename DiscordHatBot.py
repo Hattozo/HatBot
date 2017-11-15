@@ -496,6 +496,16 @@ i hope she brings lots-a spaghetti""")
 @client.command(pass_context=True)
 async def seven(ctx):
     await client.say("""windows 7""")
+    
+#command78
+@client.command(pass_context=True)
+async def beter(ctx):
+    await client.say("""https://www.youtube.com/watch?v=xRwapoCOU_E""")
+    
+#command79
+@client.command(pass_context=True)
+async def idiot(ctx):
+    await client.say("""thats rude man""")
 
 
 client.run("insert_token_here")
