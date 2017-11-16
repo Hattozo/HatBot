@@ -30,4 +30,4 @@
 - Added beter command (I added it a few days ago but forgot to put it on GitHub lol)
 - Added idiot command
 
-To see more updates, go to the commits section for this repo and click the following ones that say WhatsNew.md
+To see more updates, go to the commits section for this repo and click the following ones that say Update WhatsNew.md
