@@ -9,9 +9,11 @@ client = commands.Bot(command_prefix=bot_prefix)
   
 @client.event
 async def on_ready():
-    print("The bot is running.")
-    print("Name: {}".format(client.user.name))
-    print("ID: {}".format(client.user.id))
+    print("-------------------------------------")
+    print("      The bot is running.          ")
+    print("      Name: {}".format(client.user.name))
+    print("      ID: {}".format(client.user.id))
+    print("-------------------------------------")
 
 @client.command(pass_context=True)
 async def rules(ctx):
