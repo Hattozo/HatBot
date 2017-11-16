@@ -5,6 +5,7 @@
 - Added grill command
 - Added boy command
 - Added girl command
+- Added a new special looking print message in the Python Output when you run the bot
 
 # Last Update
 
