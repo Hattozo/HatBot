@@ -528,6 +528,68 @@ async def boy(ctx):
 @client.command(pass_context=True)
 async def girl(ctx):
     await client.say("""boy""")
+    
+#command84
+@client.command(pass_context=True)
+async def examplesomething(ctx):
+    await client.say("""This is a example!""")
+
+#command85
+@client.command(pass_context=True)
+async def trashcan(ctx):
+    await client.say("""Dont throw me in the trash ;(""")
+
+#command86
+@client.command(pass_context=True)
+async def funfact4(ctx):
+    await client.say("""Did you know that HatCord is a thing?""")
+
+#command87
+@client.command(pass_context=True)
+async def hatcord(ctx):
+    await client.say("""It's a server made by the creator of this bot.""")
+
+#command88
+@client.command(pass_context=True)
+async def moreinfo(ctx):
+    await client.say("""no do info command""")
+
+#command89
+@client.command(pass_context=True)
+async def funfact5(ctx):
+    await client.say("""Did you know, that in November 16, 2017, lots of things were added to HatBot such as more commands, more stuff to HatBot github repo, and such.""")
+
+#command90
+@client.command(pass_context=True)
+async def clientsay(ctx):
+    await client.say("""await client.say you ded""")
+
+#command91
+@client.command(pass_context=True)
+async def evenwaygoddamnmorecommandsson(ctx):
+    await client.say("""Holy crap, i've working on this bot like nonstop.""")
+
+#command92
+@client.command(pass_context=True)
+async def clickbait(ctx):
+    await client.say("""YouTube""")
+
+#command93
+@client.command(pass_context=True)
+async def memes(ctx):
+    await client.say("""I hate it when memes become dead.""")
+
+#command94
+@client.command(pass_context=True)
+async def art(ctx):
+    await client.say("""I am such a bad artist.""")
+
+#command95
+@client.command(pass_context=True)
+async def normies(ctx):
+    await client.say("""GET OFF MY FUCKING LAWN
+
+REEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE""")
 
 
 client.run("insert_token_here")
