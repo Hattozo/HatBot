@@ -506,6 +506,26 @@ async def beter(ctx):
 @client.command(pass_context=True)
 async def idiot(ctx):
     await client.say("""thats rude man""")
+    
+#command80
+@client.command(pass_context=True)
+async def boi(ctx):
+    await client.say("""grill""")
+
+#command81
+@client.command(pass_context=True)
+async def grill(ctx):
+    await client.say("""boi""")
+
+#command82
+@client.command(pass_context=True)
+async def boy(ctx):
+    await client.say("""girl""")
+
+#command83
+@client.command(pass_context=True)
+async def girl(ctx):
+    await client.say("""boy""")
 
 
 client.run("insert_token_here")
