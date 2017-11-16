@@ -6,6 +6,24 @@
 - Added boy command
 - Added girl command
 - Added a new special looking print message in the Python Output when you run the bot
+- Added Information to HatBot's wiki homepage
+- Added contents folder
+- Added some screenshots
+- Update list can handle much more updates
+- Added examplesomething command
+- Added trashcan command
+- Added funfact4 command
+- Added hatcord command
+- Added moreinfo command
+- Added funfact5 command
+- Added clientsay command
+- Added evenwaygoddamnmorecommandsson
+- Added clickbait command
+- Added memes command
+- Added art command
+- Added normies command
+
+> Holy crap, thats the longest changelog i've ever seen in HatBot's changelog!
 
 # Last Update
 
