@@ -19,6 +19,8 @@ and much more. This bot has features, but has a few features such as
 
 Yes, this bot is not that good because it only responds to commands, and just kick people, and not really powerful things.
 
+## Information
+
 You can take the source code to make your own of it, and replace the client ID with your own.
 
 You can also change the prefix in your own bot if you are taking the source code.
