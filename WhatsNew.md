@@ -24,6 +24,9 @@
 - Added normies command
 - Added example.md file
 - Added discord-bot topic
+- Added hatbot topic
+- Added hat topic
+- Added simple topic
 
 > Holy crap, thats the longest changelog i've ever seen in HatBot's changelog!
 
