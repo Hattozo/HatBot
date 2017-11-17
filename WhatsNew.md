@@ -27,6 +27,7 @@
 - Added hatbot topic
 - Added hat topic
 - Added simple topic
+- Added something to the repo description
 
 > Holy crap, thats the longest changelog i've ever seen in HatBot's changelog!
 
