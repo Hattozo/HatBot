@@ -27,6 +27,8 @@ Yes, I work on this bot when I have my freetime and when i'm not busy on somethi
 
 You can also watch this repo anytime you want, so whenever something new is added to HatBot, you get notified for new commands, stuff, and such.
 
+Also, if there is a typo in a command, or you want a new command, please report it in the issues section! We would be glad to fix it or add your request.
+
 ## NOTICE!
 
 **_If you are taking the source code for this bot, do note that you have to replace the "your_own_token" with your DISCORD BOT CILENT ID, or else your bot may not work._** **_This is ALSO coded with Python, so other coding languages may not work._**
