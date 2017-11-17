@@ -22,6 +22,7 @@
 - Added memes command
 - Added art command
 - Added normies command
+- Added example.md file
 
 > Holy crap, thats the longest changelog i've ever seen in HatBot's changelog!
 
