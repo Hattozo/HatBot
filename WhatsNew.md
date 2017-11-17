@@ -23,6 +23,7 @@
 - Added art command
 - Added normies command
 - Added example.md file
+- Added discord-bot topic
 
 > Holy crap, thats the longest changelog i've ever seen in HatBot's changelog!
 
