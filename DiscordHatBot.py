@@ -340,6 +340,7 @@ async def yes(ctx):
 @client.command(pass_context=True)
 async def fifthy(ctx):
     await client.say("""This is the 50th command for this bot. Coincidence?""")
+#cool milestone, lol
 
 #command51
 @client.command(pass_context=True)
