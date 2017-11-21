@@ -612,6 +612,7 @@ async def radiopasta(ctx):
 ┈▏╰━╯▔▔▔▔╰━╯▕╱
 ┈▔▔▔▔▔
 """)
+#lol the radio looks weird on github
 
 
 client.run("insert_token_here")
