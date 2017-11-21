@@ -598,7 +598,7 @@ async def closely(ctx):
     
 #command97
 @client.command(pass_context=True)
-async def copypasta(ctx):
+async def copypastas(ctx):
     await client.say("""There are a lot of useless stuff for your copypasta needs. Try =radiopasta for example""")
 
 #command98
