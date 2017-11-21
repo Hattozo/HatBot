@@ -1,5 +1,11 @@
 # Whats New for Thursday, November 16, 2017
 
+> Sorry for not updating HatBot for so long!
+
+- Added closely command
+
+# Last Update for Thursday, November 16, 2017
+
 - There are now dates on the update list! (last update currently doesnt have one rn but probably when a another last update comes.)
 - Added boi command
 - Added grill command
@@ -30,10 +36,3 @@
 - Added something to the repo description
 
 > Holy crap, thats the longest changelog i've ever seen in HatBot's changelog!
-
-# Last Update
-
-- Added beter command (I added it a few days ago but forgot to put it on GitHub lol)
-- Added idiot command
-
-To see more updates, go to the commits section for this repo and click the following ones that says "Update WhatsNew.md", once you click it press the thing that says "Display the rich diff"
