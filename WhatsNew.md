@@ -3,6 +3,8 @@
 > Sorry for not updating HatBot for so long!
 
 - Added closely command
+- Added copypasta command
+- Added radiopasta command
 
 # Last Update for Thursday, November 16, 2017
 
