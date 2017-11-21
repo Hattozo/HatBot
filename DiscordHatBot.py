@@ -595,6 +595,23 @@ REEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
 @client.command(pass_context=True)
 async def closely(ctx):
     await client.say("""Do it very close to me, alright?""")
+    
+#command97
+@client.command(pass_context=True)
+async def copypasta(ctx):
+    await client.say("""There are a lot of useless stuff for your copypasta needs. Try =radiopasta for example""")
+
+#command98
+@client.command(pass_context=True)
+async def radiopasta(ctx):
+    await client.say("""┈┈▂▂▂▂┏━┓▂▂▂▂▂
+┈╱┈┈┈╱┛┈┗╱┈┈┈╱▏
+▕▔▔▔▔▔▔▔▔▔▔▔▔▏▏
+┈▏╭━╮┏━━┓╭━╮▕▕
+┈▏┃╳┃┣━━┫┃╳┃▕▕
+┈▏╰━╯▔▔▔▔╰━╯▕╱
+┈▔▔▔▔▔
+""")
 
 
 client.run("insert_token_here")
