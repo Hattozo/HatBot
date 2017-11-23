@@ -615,5 +615,10 @@ async def radiopasta(ctx):
 """)
 #lol the radio looks weird on github
 
+#command99
+@client.command(pass_context=True)
+async def almost(ctx):
+    await client.say("""THIS IS THE 99TH COMMAND FOR HATBOT. GET READY FOR THE 100TH ONE. PREPARE YOURSELVES. BOIS.""")
+
 
 client.run("insert_token_here")
