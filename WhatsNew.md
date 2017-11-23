@@ -1,4 +1,4 @@
-# Whats New for Thursday, November 18, 2017
+# Whats New for Thursday, November 23, 2017
 
 > I forgot to put the date for Last Update. I really hate myself.
 
