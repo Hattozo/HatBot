@@ -626,5 +626,11 @@ async def hundredbois(ctx):
     await client.say("""THIS IS THE HUNDRED COMMAND BOIIIIIIIIIIIIIIIIIIIIIIISSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS""")
 #HUGE MILESTONE GUYS!
 
+#command101
+@client.command(pass_context=True)
+async def wed(ctx):
+    await client.say("""http://i1.kym-cdn.com/photos/images/newsfeed/001/091/264/665.jpg""")
+#It is wednesday, my dudes
+
 
 client.run("insert_token_here")
