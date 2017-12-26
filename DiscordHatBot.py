@@ -636,6 +636,12 @@ async def wed(ctx):
 @client.command(pass_context=True)
 async def notsobot(ctx):
     await client.say("""he nice bot.""")
+    
+#command103
+@client.command(pass_context=True)
+async def paraxzoid(ctx):
+    await client.say("""Some dude who likes Hatman's ga**me a tad too much**""")
+#This was requested by Parazoid.
 
 
 client.run("insert_token_here")
