@@ -632,5 +632,10 @@ async def wed(ctx):
     await client.say("""http://i1.kym-cdn.com/photos/images/newsfeed/001/091/264/665.jpg""")
 #It is wednesday, my dudes
 
+#command102
+@client.command(pass_context=True)
+async def notsobot(ctx):
+    await client.say("""he nice bot.""")
+
 
 client.run("insert_token_here")
