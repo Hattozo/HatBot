@@ -639,7 +639,7 @@ async def notsobot(ctx):
     
 #command103
 @client.command(pass_context=True)
-async def paraxzoid(ctx):
+async def minelog23(ctx):
     await client.say("""Some dude who likes Hatman's ga**me a tad too much**""")
 #This was requested by Parazoid.
 
