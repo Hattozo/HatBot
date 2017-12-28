@@ -643,5 +643,10 @@ async def paraxzoid(ctx):
     await client.say("""Some dude who likes Hatman's ga**me a tad too much**""")
 #This was requested by Parazoid.
 
+#command104
+@client.command(pass_context=True)
+async def groeamer(ctx):
+    await client.say("""baud gremoamer ios gud graoemrer!!!1111""")
+
 
 client.run("insert_token_here")
