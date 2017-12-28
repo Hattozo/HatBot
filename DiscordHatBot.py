@@ -647,6 +647,11 @@ async def paraxzoid(ctx):
 @client.command(pass_context=True)
 async def groeamer(ctx):
     await client.say("""baud gremoamer ios gud graoemrer!!!1111""")
+    
+#command105
+@client.command(pass_context=True)
+async def kahoot(ctx):
+    await client.say("""Ka**shoot**""")
 
 
 client.run("insert_token_here")
