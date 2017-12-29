@@ -653,5 +653,15 @@ async def groeamer(ctx):
 async def kahoot(ctx):
     await client.say("""Ka**shoot**""")
 
+#command106
+@client.command(pass_context=True)
+async def visual(ctx):
+    await client.say("""good open source code program""")
+
+#command107
+@client.command(pass_context=True)
+async def gay(ctx):
+    await client.say("""no""")
+
 
 client.run("insert_token_here")
