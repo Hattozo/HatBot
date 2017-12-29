@@ -654,4 +654,4 @@ async def kahoot(ctx):
     await client.say("""Ka**shoot**""")
 
 
-client.run("insert_token_here")
+client.run("token.txt")
