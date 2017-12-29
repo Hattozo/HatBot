@@ -12,4 +12,5 @@ We should also not try to insert bad code, like the bot deletes every channel in
 # Info on Contributing
 
 ~~If you are contributing, please notify Hat so he can add your code to the bot. This is because it doesnt sync to my computer automatically. Thank you.~~
+
 Hat now has Version Control for Visual Studio Code, so now it will sync. Thank you.
