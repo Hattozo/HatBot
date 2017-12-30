@@ -21,7 +21,7 @@ Yes, this bot is not that good because it only responds to commands, and just ki
 
 ## Information
 
-You can take the source code to make your own of it, and replace the client ID with your own.
+You can take the source code to make your own of it, and replace the client ID with your own. See a guide of how to take the source code [here.](https://www.youtube.com/watch?v=OtDxNnBKxWA)
 
 You can also change the prefix in your own bot if you are taking the source code.
 
