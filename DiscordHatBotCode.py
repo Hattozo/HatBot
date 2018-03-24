@@ -669,4 +669,4 @@ async def pythonicon(ctx):
     await client.say("""https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2000px-Python.svg.png""")
 
 
-client.run("insert_token_here")
+client.run("BOT_TOKEN")
