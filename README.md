@@ -1,3 +1,5 @@
+# WARNING, THIS REPO'S CODE IS ABSOLUTE OUTDATED, HATBOT NOW USES DISCORD.JS INSTEAD OF DISCORD.PY.
+
 # HatBot
 
 HatBot is a Discord Bot that is for the Discord server **HatCord** but a public bot. It is kinda a useless bot, but can kick members that have a role lower than HatBot. But it can respond to commands.
